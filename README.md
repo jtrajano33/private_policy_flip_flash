@@ -2,7 +2,7 @@
 
 Welcome to Flipflash: JLPT N4 Flashcards app for Android!
 
-This is an Android app developed by Justin Trajano focus on helping users on their Japanese studies on learning/memorizing Kanji. The app is available on Google Play at https://play.google.com/store/apps/details?id=com.trojan.flipflash.
+This is an Android app developed by Justin Trajano that focuses on helping users on their Japanese studies in learning/memorizing Kanji. The app is available on Google Play at https://play.google.com/store/apps/details?id=com.trojan.flipflash.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
