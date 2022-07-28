@@ -1,4 +1,4 @@
-**Flipflash: JLPT N4 Flashcards**
+# **Flipflash: JLPT N4 Flashcards**
 
 Welcome to Flipflash: JLPT N4 Flashcards app for Android!
 
