@@ -10,7 +10,7 @@ I have not programmed this app to collect any personal identifiable information.
 
 If you find any security vulnerability, or have any question regarding how the app protects your privacy, please send me an email at justin.trajano32@gmail.com and I will surely try to fix it/help you.
 
-Yours sincerely,
-Justin Rodrigo B. Trajano
-Software Engineer
+Yours sincerely, <br />
+Justin Rodrigo B. Trajano <br />
+Software Engineer <br />
 Bataan, Philippines
