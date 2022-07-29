@@ -1,6 +1,6 @@
-# **Flipflash: JLPT N4 Flashcards**
+# **Saikou: JLPT N5 N4 Flashcards**
 
-Welcome to Flipflash: JLPT N4 Flashcards app for Android!
+Welcome to Saikou: JLPT N5 N4 Flashcards app for Android!
 
 This is an Android app developed by Justin Trajano that focuses on helping users on their Japanese studies in learning/memorizing Kanji. The app is available on Google Play at https://play.google.com/store/apps/details?id=com.trojan.flipflash.
 
